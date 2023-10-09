@@ -1,6 +1,6 @@
 # Instruction:
 ## Step 1: Clone the Repository
-1. Clone your Dockerized Kafka pipeline repository from GitHub (or any other version control system) to your local machine.
+1. Clone your Dockerized Kafka pipeline repository from GitHub (https://github.com/AnnWu0530/Fetch.git) to your local machine.
 
 ## Step 2: Navigate to the Project Directory
 2. Open a terminal or command prompt and navigate to the project directory where you cloned the repository.
